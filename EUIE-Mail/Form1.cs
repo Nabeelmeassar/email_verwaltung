@@ -87,7 +87,7 @@ namespace EUIE_Mail
             catch (Exception)
             {
 
-                MessageBox.Show("Wählen Sie bitte die Elemant aus der Student list !");
+                MessageBox.Show("Wählen Sie bitte die Element aus der Student list !");
             }
         }
 
